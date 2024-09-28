@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 import numpy as np
 
-# Create by  Bunrawat Charoenyuennan 
+# Create by  Bunrawat Charoenyuennan DADS
 st.title("☕ Barista Chatbot 666 ")
 st.subheader("Presented By Bunrawat Charoenyuennan")
 
